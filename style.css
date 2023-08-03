@@ -199,7 +199,7 @@ margin: 10px 0;
 
   width: 100%;
     height: 600px;
-    background-image:url(image/about-photo.png);
+    background-image:url(about-photo.png);
     background-size: cover;
     background-position: center;
     display:flex ;
